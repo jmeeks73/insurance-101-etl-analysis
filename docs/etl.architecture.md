@@ -1,6 +1,6 @@
-# 🧠 ETL Architecture
+#  ETL Architecture
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline using an insurance dataset.
 
@@ -13,7 +13,7 @@ The objective is to:
 
 ---
 
-## 🔄 Data Flow
+##  Data Flow
 
 ```text
 Raw CSV → Python Cleaning → SQL Server → Power BI Dashboard
@@ -21,7 +21,7 @@ Raw CSV → Python Cleaning → SQL Server → Power BI Dashboard
 
 ---
 
-## ⚙️ Tools Used
+##  Tools Used
 
 * Python (pandas)
 * SQL Server (T-SQL)
@@ -30,7 +30,7 @@ Raw CSV → Python Cleaning → SQL Server → Power BI Dashboard
 
 ---
 
-## 🧩 ETL Process
+##  ETL Process
 
 ### 1. Extract
 
@@ -74,7 +74,7 @@ Raw CSV → Python Cleaning → SQL Server → Power BI Dashboard
 
 ---
 
-## 📊 Final Output
+##  Final Output
 
 The final dashboard includes:
 
