@@ -113,5 +113,5 @@ This project demonstrates the ability to:
 ## * Author
 
 John Meeks
-Aspiring Data Analyst | ETL Developer | Python & SQL Enthusiast
+
 
