@@ -4,6 +4,22 @@
 
 This project is a complete end-to-end ETL (Extract, Transform, Load) data analysis pipeline built using an insurance dataset. The project demonstrates how raw healthcare insurance data can be extracted, cleaned, transformed, analyzed, and visualized using Python, SQL Server, and Power BI.
 
+1. Business Problem
+
+Insurance companies need to understand:
+
+Why some customers generate significantly higher medical costs
+Which customer groups are the highest financial risk
+How lifestyle and demographic factors influence insurance charges
+How to improve pricing strategies and reduce claim expenses
+
+Without proper analysis, insurance providers may:
+
+Underprice high-risk customers
+Lose profitability
+Miss fraud or risk indicators
+Fail to target wellness programs effectively
+
 The purpose of this project is to create a professional data analytics portfolio project that showcases:
 
 - Data Extraction
